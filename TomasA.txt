@@ -1,0 +1,4 @@
+equipo de futbol: independiente 7L
+mascota: false
+actividad fav: jugar futbol
+color fav: rojo
